@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+<a href="https://velog.io/"><img src="https://media.vlpt.us/images/rilee/post/80f06e61-f8ff-4a51-b7e6-71145832f485/%E1%84%87%E1%85%A2%E1%86%AF%E1%84%85%E1%85%A9%E1%84%80%E1%85%B3.png"></a>
+  
+# 클론코딩🌱velog
+  개발자들을 위한 블로그 서비스 벨로그를 클론코딩
+  
+  ## 📆 작업기간
+  <strong>2022.02.18 ~ 2022.02.24</strong>   
+     
+  ## 👥 팀원
+  <strong>FE</strong>: 고주열  신병우   
+  <strong>BE</strong>: 최창용  이동주     
+     
+  ## 💡 구현기능
+  ### 회원관리
+  - 로그인, 회원가입 모달창 구현   
+  - 로그아웃
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ### 메인페이지
+  - 로그인 여부에 따라 변하는 헤더
+  - 서버에서 불러와 메인페이지에 뿌려주기  
+  - 클릭한 게시물의 상세페이지 이동
 
-## Available Scripts
+### 💚 구현영상
+- 회원가입 ~ 로그인 영상 <br>
+![벨로그클론_회원가입_로그인](https://user-images.githubusercontent.com/93845398/162627282-7f6658f6-b619-4e42-914f-e68f85ca1683.gif)
 
-In the project directory, you can run:
 
-### `yarn start`
+- 메인 화면 ~ 게시글 영상 <br>
+![벨로그클론_메인_게시글작성](https://user-images.githubusercontent.com/93845398/162627301-7e6ed7bc-99aa-48dd-853a-abed5892a656.gif)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📁 Github Repo
+- 백엔드 Github : https://github.com/DZOOOOO/velog-clone
+- 프론트 Github : https://github.com/Noah8922/VelogClonecoding
